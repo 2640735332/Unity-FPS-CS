@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: 86437e1ce6721cb40925d4308d4fd4c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: OT Automatic rifle 6
+  - first:
+      213: 21300002
+    second: OT Automatic rifle 1
+  - first:
+      213: 21300004
+    second: OT Handgun 5
+  - first:
+      213: 21300006
+    second: OT Automatic rifle 5
+  - first:
+      213: 21300008
+    second: OT Semiautomatic rifle 1
+  - first:
+      213: 21300010
+    second: OT Handgun 4
+  - first:
+      213: 21300012
+    second: OT Shotgun 2
+  - first:
+      213: 21300014
+    second: OT Handgun 3
+  - first:
+      213: 21300016
+    second: OT Submachinegun 3
+  - first:
+      213: 21300018
+    second: OT Automatic rifle 2
+  - first:
+      213: 21300020
+    second: OT Sniper 3
+  - first:
+      213: 21300022
+    second: OT Handgun 2
+  - first:
+      213: 21300024
+    second: OT Submachinegun 1
+  - first:
+      213: 21300026
+    second: OT Shotgun 1
+  - first:
+      213: 21300028
+    second: OT Handgun 1
+  - first:
+      213: 21300030
+    second: OT Rifle 1
+  - first:
+      213: 21300032
+    second: OT Rocketlauncher 1
+  - first:
+      213: 21300034
+    second: OT Sniper 2
+  - first:
+      213: 21300036
+    second: OT Sniper 1
+  - first:
+      213: 21300038
+    second: OT Combat knife
+  - first:
+      213: 21300040
+    second: OT Automatic shotgun 1
+  - first:
+      213: 21300042
+    second: OT Submachinegun 2
+  - first:
+      213: 21300044
+    second: OT Automatic rifle 3
+  - first:
+      213: 21300046
+    second: OT Automatic rifle 4
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Web
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AUG
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3563
+        width: 1523
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d01e00978f9964fb95e08f1a851d38
+      internalID: 577252711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 2_1
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 3586
+        width: 1548
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1510b9ef162aa4898bbe017748350f
+      internalID: 1208309306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 2_2
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 3630
+        width: 536
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a3aace3d98b55408334f1d1a2351da
+      internalID: -76672489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP9
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2946
+        width: 1388
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f8b8d4034cc7c45b306aa1f4935e9a
+      internalID: 1664788431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 2_4
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 3166
+        width: 1688
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b7e670c5a82f3409df281367da2869
+      internalID: 262250470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 3190
+        width: 540
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763ff3c1a0f9b8948a502b69be85d2af
+      internalID: 942218426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 2_6
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 2878
+        width: 1680
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eb51b89e376434384d485567bba31a
+      internalID: -328644488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 2_7
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 2806
+        width: 676
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4070d9f32f9ab40a1a9c0072fab509
+      internalID: 545924142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNK
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2470
+        width: 748
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e5ef4c36c575845a5cebf3dde46f1e
+      internalID: -836937015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2490
+        width: 860
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebcb7bd54859ce4fbecd95e1a32b7db
+      internalID: -136351695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 2_10
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 2490
+        width: 1700
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edaf475a1790d542b99510df1bbb96a
+      internalID: 2138644194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Degale
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 2326
+        width: 668
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb22e0676374f94fbd7e2e354dd9717
+      internalID: -413430827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1962
+        width: 1168
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e9b7af1e7cf7b42b782a2d0d62c074
+      internalID: 194786563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 2_13
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 2106
+        width: 1636
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65deafdc55caf440954811c5ecf5d14
+      internalID: 1962624808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 2_14
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1814
+        width: 632
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169c48b56ab74d64db3432da79a12c04
+      internalID: 94904157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotGun1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1478
+        width: 1288
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727efa8a80ee13445854542fa7ff120e
+      internalID: -1644908336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 2_16
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1790
+        width: 1731
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c22040d46680141b93c56d0112b6ca
+      internalID: -472210990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 986
+        width: 1604
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29144a6abe6daa48a4eb1be7413782e
+      internalID: -1709139965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 2_18
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 1386
+        width: 1864
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c21aec58e1c9464f8705f93fbca171c
+      internalID: 1660999908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 502
+        width: 1584
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba86156131a7f74a9e576acf2179277
+      internalID: -1023378107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 2_20
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 902
+        width: 1708
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf210fe2b59c1b84d990e4aaf3d533f2
+      internalID: 2058586442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 22
+        width: 1052
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f324f6c3009029e44a9240fc741f9222
+      internalID: 229506128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 2_22
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 442
+        width: 1728
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0f1a0baf6d78b438f7059d0760faf7
+      internalID: 279653333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 2_23
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 106
+        width: 852
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2dabea0e7088949be45d019d1d3ed3
+      internalID: 1957517171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 51f6b3a6adb74984d8701f6d9da13781
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AK: -1709139965
+      AUG: 577252711
+      Degale: -413430827
+      Glock: 942218426
+      M4: -1023378107
+      MP10: 229506128
+      MP7: 194786563
+      MP9: 1664788431
+      Orange theme spritesheet 2_1: 1208309306
+      Orange theme spritesheet 2_10: 2138644194
+      Orange theme spritesheet 2_13: 1962624808
+      Orange theme spritesheet 2_14: 94904157
+      Orange theme spritesheet 2_16: -472210990
+      Orange theme spritesheet 2_18: 1660999908
+      Orange theme spritesheet 2_2: -76672489
+      Orange theme spritesheet 2_20: 2058586442
+      Orange theme spritesheet 2_22: 279653333
+      Orange theme spritesheet 2_23: 1957517171
+      Orange theme spritesheet 2_4: 262250470
+      Orange theme spritesheet 2_6: -328644488
+      Orange theme spritesheet 2_7: 545924142
+      P90: -136351695
+      SNK: -836937015
+      ShotGun1: -1644908336
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
