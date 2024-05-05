@@ -3,7 +3,6 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.Netcode;
 using Unity.VisualScripting;
-using UnityEditor.UI;
 using UnityEngine;
 
 public class PlayerController : NetworkBehaviour
@@ -94,16 +93,14 @@ public class PlayerController : NetworkBehaviour
             var temp = inputHandler.GetPlayerInput();
             C2S_OnUpdateParamRpc(temp);
         }
-
+    }
+    private void FixedUpdate()
+    {
         if (IsServer)
         {
             var actionStr = weaponHandler.GetActionStr(rpStateParam.Value);
             animHandler.HandlePlayerState(rpStateParam.Value, actionStr);
         }
-    }
-    private void FixedUpdate()
-    {
-        
     }
 
     public override void OnNetworkDespawn()
