@@ -1,4 +1,4 @@
-![image](https://github.com/2640735332/Unity-FPS-CS/assets/81305208/4f1914d7-fa36-46b2-a73c-80b26f8e54d1)# Unity-FPS-CS
+# Unity-FPS-CS
 This is a unity source code with a online FPSGame project. It's base on unity plugin Netcode for Gameobjects and it's a undergraduate thesis design.
 
 # Application download
