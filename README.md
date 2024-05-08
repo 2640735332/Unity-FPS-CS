@@ -1,4 +1,4 @@
-# Unity-FPS-CS
+![image](https://github.com/2640735332/Unity-FPS-CS/assets/81305208/4f1914d7-fa36-46b2-a73c-80b26f8e54d1)# Unity-FPS-CS
 This is a unity source code with a online FPSGame project. It's base on unity plugin Netcode for Gameobjects and it's a undergraduate thesis design.
 
 # Application download
@@ -32,10 +32,12 @@ Input  ip:your server ip port:xxxx (keep same with server port)
 ![image](https://github.com/2640735332/Unity-FPS-CS/assets/81305208/74c213b8-dc21-46fd-9a0b-229e35e5b1ed)
 
 Click StartClient Button
-![image](https://github.com/2640735332/Unity-FPS-CS/assets/81305208/2e395d37-dbbd-4e54-a4bd-c325ffe8eab2)
+![image](https://github.com/2640735332/Unity-FPS-CS/assets/81305208/0fe0b6c7-7f9b-40d1-97e6-2231dd110684)
 
 Click Match wait other player begin match...
-![image](https://github.com/2640735332/Unity-FPS-CS/assets/81305208/b2f996ea-a2c6-4ec4-93b0-838feae47baa)
+![image](https://github.com/2640735332/Unity-FPS-CS/assets/81305208/b94c0050-d50f-4dfa-bbe4-8aefe3188662)
+
+
 
 
 
